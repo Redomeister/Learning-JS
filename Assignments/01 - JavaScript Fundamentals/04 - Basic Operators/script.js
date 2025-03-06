@@ -1,13 +1,9 @@
-// let country = 'America';
-// let continent = 'North America';
 let population = 340.1;
-// let isIsland = false;
 let language;
 language = 'English';
 const country = 'America';
 const continent = 'North America';
 const isIsland = false;
-// isIsland = true;
 
 /*
 1. If your country split in half, and each half would contain half the population,
