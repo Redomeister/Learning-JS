@@ -19,12 +19,10 @@ m tall.
 m tall.
 */
 
-let massMark, massJohn, heightMark, heightJohn;
-
-massMark = 78;
-heightMark = 1.69;
-massJohn = 92;
-heightJohn = 1.95;
+const massMark = 78;
+const heightMark = 1.69;
+const massJohn = 92;
+const heightJohn = 1.95;
 
 const bmiMark = massMark / (heightMark * heightMark);
 const bmiJohn = massJohn / (heightJohn * heightJohn);
