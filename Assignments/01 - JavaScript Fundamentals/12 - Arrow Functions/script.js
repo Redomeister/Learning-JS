@@ -12,18 +12,6 @@ const percentageKorea = percentageOfWorld1(52);
 console.log(percentageAmerica);
 console.log(percentageJapan);
 console.log(percentageKorea);
-
-const percentageOfWorld2 = function (population) {
-    return (population / 7900) * 100;
-}
-
-const percentageAmerica2 = percentageOfWorld2(340);
-const percentageJapan2 = percentageOfWorld2(124);
-const percentageKorea2 = percentageOfWorld2(52);
-
-console.log(percentageAmerica2);
-console.log(percentageJapan2);
-console.log(percentageKorea2);
 */
 
 /*
