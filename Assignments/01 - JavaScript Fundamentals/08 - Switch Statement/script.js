@@ -1,4 +1,4 @@
-const language = 'chinese';
+const language = 'english';
 const country = 'America';
 const continent = 'North America';
 const isIsland = false;
