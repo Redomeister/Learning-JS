@@ -28,7 +28,6 @@ const calcTip = function (bill) {
     return total.push(bill + tip);
 }
 
-
 calcTip(bills[0]);
 calcTip(bills[1]);
 calcTip(bills[2]);
