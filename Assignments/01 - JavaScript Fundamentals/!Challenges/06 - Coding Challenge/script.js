@@ -22,10 +22,10 @@ const bills = [125, 555, 44];
 const tips = [];
 const total = [];
 
-const calcTip = function (bills) {
-    const tip = bills >= 50 && bills <= 300 ? bills * 0.15 : bills * 0.20;
+const calcTip = function (bill) {
+    const tip = bill >= 50 && bill <= 300 ? bill * 0.15 : bill * 0.20;
     tips.push(tip);
-    return total.push(bills + tip);
+    return total.push(bill + tip);
 }
 
 
