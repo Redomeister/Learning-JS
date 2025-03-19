@@ -16,7 +16,6 @@ change the array at that index position. For example, you can search for
 'Sweden' in the array, and then replace it with 'Republic of Sweden'.
 */
 
-
 const neighbours = ['Canada', 'Mexico'];
 // console.log(neighbours);
 neighbours.push('Utopia');
